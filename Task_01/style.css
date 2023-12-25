@@ -1,0 +1,23 @@
+/* This is the external CSS file */
+
+/* You can change the values of these properties to customize your website */
+
+body {
+  background-color: lightblue; /* Change the background color */
+  font-family: Arial, sans-serif; /* Change the font family */
+  font-size: 20px; /* Change the font size */
+  margin: 20px; /* Add some space around the body */
+}
+
+h1 {
+  color: white; /* Change the color of the heading */
+  text-align: center; /* Center the heading */
+  padding: 10px; /* Add some padding to the heading */
+  background-color: navy; /* Add a background color to the heading */
+}
+
+p {
+  color: black; /* Change the color of the paragraphs */
+  text-align: left; /* Align the paragraphs to the left */
+  margin: 10px; /* Add some margin to the paragraphs */
+}
